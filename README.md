@@ -1,14 +1,15 @@
-# Testing skills with challenge from Frontend Mentor
+ Testing skills with challenge from Frontend Mentor
 
 Live: https://fm-challenge.netlify.app/
 
-- Frontend Mentor - Huddle landing page with alternating feature blocks
 
 
 
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
+
+Frontend Mentor - Huddle landing page with alternating feature blocks
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
